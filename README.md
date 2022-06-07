@@ -19,8 +19,8 @@ Shout out to following person/s and crews :
 TODO -V1
 
 - [x] Make mobile responsive.
+- [ ] Change the background.
 - [ ] Refactor Javascript to be more functional.
-- [ ] Fix Js geolocation issue.
 - [ ] Integrate Cypress tests.
 - [ ] Add another screen, a welcome screen. 
 - [ ] Add Linting via CICD or git commit.   
